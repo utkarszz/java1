@@ -1,0 +1,26 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+replay_pid*
+
+# Build dirs
+/target/
+/bin/
+/out/
+/build/
+
+# IDEs
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
